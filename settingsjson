@@ -1,0 +1,17 @@
+{
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 240,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
+  "editor.lineHeight": 35,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.untitled.hint": "hidden",
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": -1,
+  "files.trimFinalNewlines": true
+}
